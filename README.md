@@ -18,10 +18,14 @@ Insert 12 20x10x5 mm rectangular neodymium magents into the holder by sliding th
 
 Find the lip at the bottom of the holder, that is the end that goes in first. It will slide into the throat of the disposal and that lip will set into the groove at the bottom of the disposal throat.
 
+<img src=lip.png alt="finding the lip" width="400">
+
 Slide the magnet holder into the throat of the disposal until the bottom snaps into the groove.
+
+<img src=inserting.png alt="inserting the holder" width="400">
 
 ### Troubleshooting
 
 If you can see the bottoms of the magnets after putting it in, you put it in wrong. Flip it over and put it lip edge down.
 
-<img src=wrongway.png alt="inerting magnets" width="400">
+<img src=wrongway.png alt="wrong way" width="400">
