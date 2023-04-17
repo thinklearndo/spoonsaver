@@ -6,6 +6,8 @@ A magnet holder to print out in TPU, that fits in the throat of a sink's garbage
 
 This model is designed to fit in 3.25" diameter disposals. Usually disposals manufactured by InSinkErator, Kohler, Moen, and Emerson have that size of opening.
 
+Fully assembled spoon savers are for sale on my Etsy store: [Spoon Saver on Etsy](https://www.etsy.com/listing/1445375198)
+
 ### How to Assemble
 
 Print out the model at printables: https://www.printables.com/model/451064-spoon-saver in TPU for flexibility. I used overture TPU off of amazon: [Overture TPU filament](https://www.amazon.com/Overture-Filament-Flexible-Consumables-Dimensional/dp/B07VDP2S3P/ref=sxts_rp_s_a_1_0?content-id=amzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4%3Aamzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4&cv_ct_cx=overture%2Btpu%2Bfilament&keywords=overture%2Btpu%2Bfilament&pd_rd_i=B07VDP2S3P&pd_rd_r=2fa95b95-a110-46af-a547-bcfe784d566b&pd_rd_w=Cj4xE&pd_rd_wg=wJM8p&pf_rd_p=eff26b9b-e255-411b-a40d-eccb21f93fe4&pf_rd_r=CWP4S51Q6K7NAVC69XST&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-5985efba-8948-4f09-9122-d605505c9d1e&th=1)
